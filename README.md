@@ -1,4 +1,2 @@
 # Akhilesh_Practice
-##Hey
-**Hello
-*How are you?
+##Hey, I'm Saniket
